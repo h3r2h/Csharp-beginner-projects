@@ -18,7 +18,7 @@ A collection of C# console applications built during my Year 12 A-Level Computer
 * **Description:** A structured multiple-choice quiz covering Computer Science and Economics questions with automated score tracking and percentage calculation.
 * **Core Concepts:** Custom classes (`class Question`), lists (`List<T>`), nested `for` loops, and data structures.
 
-### 4. Subroutines Practice (`/Subroutines_practice`)
+### 4. Grade Calculator - Subroutines Practice (`/Subroutines_practice`)
 * **Description:** A modular program designed to practice procedural programming, parameters, return values, and input validation bounds.
 * **Core Concepts:** Modular subroutines (`static int`, `static string`), parameter passing, return statements, and range validation.
 
